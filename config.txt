@@ -1,6 +1,6 @@
-token=
+token=NTI1NjM1MTA3MDk3NDExNTk0.Dv5xjg.K5NwMefqCPBVrQcTn9R0dYU1FPM
 owner=386962334301683712
-prefix= 1
-game= 1help
+prefix= P
+game= Phelp
 stayinchannel=true
 songinstatus=true 
